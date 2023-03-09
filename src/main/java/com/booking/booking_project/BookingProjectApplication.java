@@ -19,5 +19,3 @@ public class BookingProjectApplication {
 	}
 
 }
-
-// insert a sample data into database
